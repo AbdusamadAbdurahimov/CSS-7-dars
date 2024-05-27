@@ -1,0 +1,23 @@
+body{
+    width: 1200px;
+    height: 600px;
+}
+.gradient{
+    width: 550px;
+    height: 50px;
+    background: linear-gradient(0deg,springgreen,lightseagreen,royalblue,darkred);
+    text-align: center;
+    color: white;
+    margin-top: 10px;
+}
+.linear{
+    width: 550px;
+    height: 50px;
+    background: linear-gradient(90deg,orange,yellow,green,darkblue,blue,purple);
+    text-align: center;
+    margin-top: 10px;
+}
+p{
+    text-align: center;
+
+}

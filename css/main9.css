@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+}
+.doni-lox{
+    width: 800px;
+    height: 400px;
+    margin: 100px auto;
+    background-color: black;
+    box-shadow: 40px 20px 80px green, -70px -20px 80px blue, 90px 40px 80px yellow, -120px -150px 80px purple ;
+    border: 4px solid transparent;
+
+
+
+}
+
+

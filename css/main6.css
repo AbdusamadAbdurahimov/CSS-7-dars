@@ -1,0 +1,5 @@
+.text{
+    width: 1200px;
+    height: 600px;
+    background: radial-gradient(red,yellow,green);
+}

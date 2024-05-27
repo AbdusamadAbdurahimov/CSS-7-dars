@@ -1,0 +1,23 @@
+body{
+    background: linear-gradient(60deg, purple, blue);
+}
+.wrap{
+    background-color: white;
+    width: 300px;
+    height: 300px;
+    border-radius: 50px;
+    margin: 0 auto;
+    margin-top: 170px;
+    margin-left: 50px;
+}
+.h1{
+    position: absolute;
+    font-size: 100px;
+    text-align: center;
+    left: 900px;
+    top: 270px;
+    background: -webkit-linear-gradient(30deg,orange,blue, black);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-top: 100px;
+}

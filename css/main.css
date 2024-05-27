@@ -1,0 +1,63 @@
+h1{
+    text-shadow: 2px 5px 1px #808080;
+}
+.wrap{
+    width: 1200px;
+    margin: 0 auto;
+}
+.row{
+    width: 100%;
+    display:block ;
+
+}
+.col{
+    width: 30%;
+    margin: 1rem 1rem;
+    display: block;
+    float: left;
+    border-radius: 8px;
+    background-color: white;
+    /*border: 1px solid grey;*/
+    box-shadow: 0 0 10px rgba(80,80,80,0.5);
+    -webkit-box-shadow: 0 0 10px rgba(80,80,80,0.5);
+    -moz-box-shadow: 0 0 10px rgba(80,80,80,0.5);
+    -o-box-shadow: 0 0 10px rgba(80,80,80,0.5);
+    -ms-box-shadow: 0 0 10px rgba(80,80,80,0.5);
+}
+/*.row .col:nth-child(2){*/
+/*    margin: 0 2%;*/
+/*}*/
+.row .col:first-child .sanaa{
+    background-color: indianred;
+}
+.sana{
+    padding: 5rem 0;
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    background-color: #7de29e;
+    color: white;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+.text-sana{
+    padding: 1.5rem 0;
+    text-align: center;
+}
+.sanaa {
+    padding: 5rem 0;
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    background-color: indianred;
+    color: white;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+
+
+
+
+
+
+

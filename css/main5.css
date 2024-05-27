@@ -1,0 +1,14 @@
+body{
+    width: 1200px;
+    height: 600px;
+    text-align: center;
+    background: radial-gradient(green,white,blue);
+    margin-top: 400px;
+    margin-left: ;
+}
+h1{
+    font-size: 100px;
+}
+p{
+    font-size: 50px;
+}

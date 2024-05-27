@@ -1,0 +1,73 @@
+table{
+    border: 1px solid darkgoldenrod;
+    text-align: center;
+}
+.box-1{
+    width: 144px;
+    height: 144px;
+    border: 5px solid blue;
+background-color: #ffb82c;
+    border-radius: 20px;
+    box-shadow:
+rgba(0,0,0,0.4)
+10px 10px;
+}
+.box-2{
+    width: 144px;
+    height: 144px;
+    border: 5px solid blue;
+    background-color: #ffb82c;
+    border-radius: 0;
+    box-shadow:
+            rgba(0,0,0,0.4)
+            10px 10px;
+}
+.box-3{
+    width: 144px;
+    height: 144px;
+    border: 5px solid blue;
+    background-color: #ffb82c;
+    border-radius: 20px;
+    box-shadow: rgba(0,0,0,0.4) 10px 10px inset;
+
+}
+.box-4 {
+    width: 144px;
+    height: 144px;
+    border: 5px solid blue;
+    background-color: #ffb82c;
+    border-radius: 0;
+    box-shadow: rgba(0, 0, 0, 0.4) 10px 10px inset;
+}
+.box-5 {
+    width: 144px;
+    height: 144px;
+    border: 5px solid blue;
+    background-color: #ffb82c;
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 0.4) 10px 10px 0 10px ;
+}
+.box-6 {
+    width: 144px;
+    height: 144px;
+    border: 5px solid blue;
+    background-color: #ffb82c;
+    border-radius: 0;
+    box-shadow: rgba(0, 0, 0, 0.4) 10px 10px 0 10px;
+}
+.box-7 {
+    width: 144px;
+    height: 144px;
+    border: 5px solid blue;
+    background-color: #ffb82c;
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 0.4) 10px 10px 0 10px inset;
+}
+.box-8 {
+    width: 144px;
+    height: 144px;
+    border: 5px solid blue;
+    background-color: #ffb82c;
+    border-radius: 0;
+    box-shadow: rgba(0, 0, 0, 0.4) 10px 10px 0 10px inset;
+}
